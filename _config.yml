@@ -13,7 +13,7 @@ open_graph:
 # It can either be an url to an image or a string if the following option is set.
 #logo:
 #  text: superAsir's Notes
-logo: http://otmy7guvn.bkt.clouddn.com/Pink_Floyd_-_Division_Bell.jpg
+logo: http://otmy7guvn.bkt.clouddn.com/profile.jpeg
 
 article:
   # Show word count and estimated reading time.
@@ -25,7 +25,7 @@ article:
 menu:
   Home: /
   Archives: /archives
-  Tags: /tags
+#  Tags: /tags
   Categories: /categories
 #  Lifestyle: /categories/LifeStyle
 #  Music: /categories/Music
@@ -64,16 +64,20 @@ navbar_links:
   Twitter:
     icon: fab fa-twitter
     url: https://twitter.com/joe_asir
+  Instagram:
+    icon: fab fa-instagram
+    url: https://www.instagram.com/zhaoyao0560/
   Weibo: 
     icon: fab fa-weibo
     url: https://www.weibo.com/2144484004/profile?topnav=1&wvr=6&is_all=1
   Mail:
     icon: fas fa-envelope
     url: mailto:joeAsir0560@outlook.com
+  Best Fellow:
+    icon: fas fa-user-ninja
+    url: https://www.unbelievable9.info/
 
 # Links at the bottom of the page.
 footer_links:
-  GitHub: https://github.com/JoeAsir
-  Twitter: https://twitter.com/joe_asir
-  Weibo: https://www.weibo.com/2144484004/profile?topnav=1&wvr=6&is_all=1
+    Best Fellow: https://www.unbelievable9.info/
 
