@@ -13,7 +13,7 @@ open_graph:
 # It can either be an url to an image or a string if the following option is set.
 #logo:
 #  text: superAsir's Notes
-logo: https://github.com/JoeAsir/blog-image/raw/master/blog/other/profile.jpeg
+logo: https://github.com/asirzhao/blog-image/raw/master/blog/other/profile.jpeg
 
 article:
   # Show word count and estimated reading time.
@@ -60,10 +60,10 @@ plugins:
 navbar_links:
   GitHub:
     icon: fab fa-github
-    url: https://github.com/JoeAsir
+    url: https://github.com/asirzhao
   Twitter:
     icon: fab fa-twitter
-    url: https://twitter.com/joe_asir
+    url: https://twitter.com/asir_zhao
   Instagram:
     icon: fab fa-instagram
     url: https://www.instagram.com/zhaoyao0560/
@@ -75,15 +75,15 @@ navbar_links:
     url: https://www.unbelievable9.info/
   Little Bro:
     icon: fas fa-user-graduate
-    url: https://yuwillrun.github.io/
+    url: https://rainfung.github.io/
 #  Mail:
 #    icon: fas fa-envelope
 #    url: mailto:joeAsir0560@outlook.com
   
 # Links at the bottom of the page.
 footer_links:
-    GitHub: https://github.com/JoeAsir
-    Twitter: https://twitter.com/joe_asir
+    GitHub: https://github.com/asirzhao
+    Twitter: https://twitter.com/asir_zhao
     Instagram: https://www.instagram.com/zhaoyao0560/
     Weibo: https://weibo.com/2144484004/profile?topnav=1&wvr=6&is_all=1
 
